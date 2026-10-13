@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>51 Talk - Speaking Mills Learnig</title>
+    <title>51 Talk - Speaking Mills Learning</title>
     <link rel="icon" type="image/png" href="images/51talk.jpg">
 
 
